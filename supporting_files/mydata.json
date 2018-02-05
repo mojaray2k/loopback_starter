@@ -1,0 +1,24 @@
+{
+  "ids": {
+    "User": 2,
+    "AccessToken": 2,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "cat": 2
+  },
+  "models": {
+    "User": {
+      "1": "{\"password\":\"$2a$10$8IQ19ZdRc/I1sgCLaQED6OABj/A6KzPl2/JGT9q.tRwXyscgdjaHG\",\"email\":\"mojaray2k@gmail.com\",\"id\":1}"
+    },
+    "AccessToken": {
+      "T4CxOTYjtqs06DPujumg6JpKHkq54Ruk5Xn2MMuGVntGDzfqRdI2J6lvljV7Q7i0": "{\"id\":\"T4CxOTYjtqs06DPujumg6JpKHkq54Ruk5Xn2MMuGVntGDzfqRdI2J6lvljV7Q7i0\",\"ttl\":1209600,\"created\":\"2018-02-04T03:03:07.336Z\",\"userId\":1}"
+    },
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "cat": {
+      "1": "{\"name\":\"Butter\",\"age\":1,\"gender\":\"male\",\"breed\":\"tabbe\",\"id\":1}"
+    }
+  }
+}
